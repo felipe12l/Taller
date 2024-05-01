@@ -9,4 +9,12 @@ Este repositorio destinado a la resolucion de las siguientes funcionalidades con
  | Cadena  ||
  |subcadena|Entero con la posición dondeinicia la ocurrencia. Cero (0) si no existe|
  |posición desde donde inicia la busqueda||
--
+- 
+
+# Plataformas de Desarrollo 
+
+- ## linux
+- ## Windows
+# Herramientas usadas 
+
+- ## Clion 
