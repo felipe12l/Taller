@@ -13,8 +13,9 @@ Este repositorio destinado a la resolucion de las siguientes funcionalidades con
 
 # Plataformas de Desarrollo 
 
-- ## linux
+- ## Linux
 - ## Windows
 # Herramientas usadas 
 
 - ## Clion 
+- ## Visual Studio Code
